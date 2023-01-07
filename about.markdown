@@ -1,16 +1,6 @@
 ---
 layout: page
-title: Blog
-layout: page
-title: Notes
-layout: page
-title: Links
-layout: page
-title: App Suggestions / Uses This
-layout: page
-title: About Me
-permalink: /about/
-permalink: /about/
+title: About
 permalink: /about/
 ---
 

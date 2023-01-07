@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: logprone.
+title: logprone
 email: log.why@slmail.me
 description: >- # this means to ignore newlines until "baseurl:"
   Hello my internet name is logprone. I have made this website for writing blog posts, book summaries, 

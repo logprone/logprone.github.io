@@ -1,6 +1,10 @@
 ---
 layout: page
-title: About
+title: Blog
+title: Notes
+title: Links
+title: App Suggestions / Uses This
+title: About Me
 permalink: /about/
 ---
 

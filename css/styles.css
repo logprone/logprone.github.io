@@ -12,8 +12,11 @@ h5{
     color: gray;
     /*padding: 5px;*/
     margin: 40px;
+    margin-left: 75px;
+    font-size: small;
     
 }
+
 h3{
     margin: 5px;
     display: inline-block;
@@ -32,6 +35,7 @@ p{
     font-size: 23px;
     width: 800px;
     margin-left: 200px;
+
     
 }
 table{
@@ -99,8 +103,15 @@ hr {
 
 }
 li{
-    font-size: 23px;
+    font-size: 18px;
     margin-left: 175px;
     line-height: 2em;
    
 }
+
+h4{
+    margin: 40px;
+    font-size: 22px;
+    margin-left: 200px;
+    font-weight: normal;
+ }
